@@ -1,2 +1,2 @@
 # ID-20-Escaper-Droid
-This repository exists for archival purposes only.
+Code for the game Escaper Droid for Arduboy
